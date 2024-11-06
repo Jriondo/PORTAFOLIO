@@ -70,63 +70,63 @@ body {
     transform: scale(1.1);
 }
 
-.Hola-Santiago {
+.Hola-Jesus {
     position: relative;
     max-width: 108%;
     display: flex;
     align-items: center;
 }
 
-.Hola-Santiago .Eclipse {
+.Hola-Jesus .Eclipse {
     width: 350px;
 }
 
-.Hola-Santiago .tituloBienvenida {
+.Hola-Jesus .tituloBienvenida {
     position: relative;
     max-width: 600px;
 }
 
-.Hola-Santiago .tituloBienvenida h2 {
+.Hola-Jesus .tituloBienvenida h2 {
     font-size: 4.0em;
     color: black;
     line-height: 1.7;
 }
 
-.Hola-Santiago .tituloBienvenida h1 {
+.Hola-Jesus .tituloBienvenida h1 {
     font-size: 5em;
     color: black;
     line-height: 1.6;
 }
 
-.Hola-Santiago .tituloBienvenida p {
+.Hola-Jesus .tituloBienvenida p {
     font-size: 20px;
     line-height: 1.6;
     margin-bottom: 20px;
 }
 
-.Hola-Santiago .tituloBienvenida .btnRedes {
+.Hola-Jesus .tituloBienvenida .btnRedes {
     display: flex;
     justify-content: space-between;
     width: 230px;
 }
 
-.Hola-Santiago .tituloBienvenida .btnRedes .btnTelefono:hover {
+.Hola-Jesus .tituloBienvenida .btnRedes .btnTelefono:hover {
     transform: scale(1.1);
 }
 
-.Hola-Santiago .tituloBienvenida .btnRedes .btnEmail:hover {
+.Hola-Jesus .tituloBienvenida .btnRedes .btnEmail:hover {
     transform: scale(1.1);
 }
 
-.Hola-Santiago .tituloBienvenida .btnRedes .btnInstagram:hover {
+.Hola-Jesus .tituloBienvenida .btnRedes .btnInstagram:hover {
     transform: scale(1.1);
 }
 
-.Hola-Santiago .tituloBienvenida .btnRedes .btnTwitter:hover {
+.Hola-Jesus .tituloBienvenida .btnRedes .btnTwitter:hover {
     transform: scale(1.1);
 }
 
-.Hola-Santiago .imgPersona img {
+.Hola-Jesus .imgPersona img {
     width: 720px;
     height: 700px;
 }
